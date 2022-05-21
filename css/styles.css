@@ -1,0 +1,26 @@
+body {
+  background-color: #FEE3EC;
+}
+
+h1 {
+  color: #FF00C8;
+}
+
+h3 {
+  color: #FF00C8;
+}
+
+hr {
+  border-style: none;
+  height: 2px;
+  background-color: #FF00C8;
+  width: 99.5%;
+}
+
+.blue {
+  color: lightskyblue;
+}
+
+.pink {
+  color: rgb(255, 46, 168);
+}
